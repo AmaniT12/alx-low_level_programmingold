@@ -2,7 +2,6 @@
 
 /**
  * main - size  function
- *
  * Return: 0 on success
  */
 
